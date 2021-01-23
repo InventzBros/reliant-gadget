@@ -42,8 +42,8 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "https://reliantgadgets.com",
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -72,7 +72,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Reliant Gadgets - The One Stop Shop for Quality & Affordable Gadget ⚡️",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -725,7 +725,7 @@
     },
     "shop.html": {
       "settings": {
-        "title": "Shop",
+        "title": "Shop - Reliant Gadgets ",
         "order": 2
       },
       "components": [
@@ -1485,8 +1485,9 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact",
-        "order": 1
+        "title": "Contact - Reliant Gadgets ",
+        "order": 1,
+        "meta_descr": ""
       },
       "components": [
         {
